@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "notifs",
+  "info": {
+    "singularName": "notif",
+    "pluralName": "notifs",
+    "displayName": "Notif"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string",
+      "required": true
+    },
+    "Message": {
+      "type": "text",
+      "required": true
+    },
+    "createdDate": {
+      "type": "datetime"
+    }
+  }
+}
