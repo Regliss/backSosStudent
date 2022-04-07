@@ -55,3 +55,11 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+
+## login
+http://localhost:1337/api/auth/local
+
+
+## rooms
+https://mobilebackstrapi.herokuapp.com/api/rooms
