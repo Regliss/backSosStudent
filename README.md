@@ -63,3 +63,9 @@ http://localhost:1337/api/auth/local
 
 ## rooms
 https://mobilebackstrapi.herokuapp.com/api/rooms
+
+### How to start strapi ?
+# TU VAS SUR CETTE URL https://mobilebackstrapi.herokuapp.com/admin/auth/register-admin ET TU TE CRÉER UN COMPTE.
+# TU VAS DANS LES SETTINGS, PUIS DANS ROLE, TU MODIFIS LE ROLE AUTHENTICATED POUR METTRE TOUTES LES PERMISSIONS SUR NOTIF ET ROOM, NE PAS OUBLIER DE MODIFIER LE USER-PERMISSIONS DANS USER ET METTRE FIND ET FIND ONE. (PS: ne pas oublier de sauvegarder)
+# APRÈS TU TE CRÉER 2 UTILISATEURS DANS CONTENT MANAGER, 1 AVEC LE RÔLE student ET L´AUTRE AVEC LE RÔLE prof, SANS OUBLIER DE METTRE confirmed A TRUE. (PS: ne pas oublier de sauvegarder)
+
